@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+</head>
+<body class="w3-light-grey">
+
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="serona.jpg" style="width:100%" alt="serona">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-purple"></i>University Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-purple"></i>Caloocan City</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>janenicole.serona</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-purple"></i>09162423481</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
+          <p>Leadership Skill</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-purple" 
+style="width:"></div>
+          </div>
+          <p>Collaborative Skill</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:">
+              <div class="w3-center w3-text-white"></div>
+            </div>
+          </div>
+          <p>Time Management Skill</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:"></div>
+          </div>
+          <p>Adaptable</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:"></div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-purple"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal"></div>
+          </div>
+          <p>Filipino</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal"></div>
+
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-check-circle fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Jane Nicole Serona</h2>     
+        <div class="w3-container">
+          <h6 class="w3-text-purple"><i class="fa fa-address-card fa-fw w3-margin-right"> </i><b>Personal Information</b></h5> <span class="w3-tag w3-purple w3-round"></span></h6>
+          <p> Name: Jane Nicole Serona <br> Age: 18 years old <br> Sex: Female <br> Birthday: June 06, 2004 <br> Address: BLK 58 LOT 16 Tala V Caloocan City <br> Nationality: Filipino <br> Religion: Roman Catholic 
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Education Background</b></h5>
+          <h6 class="w3-text-purple"><i class="fa fa-book fa-fw w3-margin-right"></i>2010 - Present</h6>
+          <p>Primary: <br> Tala Elementary School <br> 2010-2016 <br> Secondary: <br> Tala High School <br> 2016-2020 <br> Samaria Senior High School <br> 2020-2022 <br> Tertiary: <br> Technological University of the Philippines <br> 2022-Present</p>
+          <hr>
+        </div>
+      </div>
+
+          <hr>
+        </div>
+      
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-purple w3-center w3-margin-top">
+  <p>    </p>
+  <br> </br>
+ 
+  <p>My Portfolio: Vlog</p>
+  
+	<br/>
+	
+	<video width="1200" controls>
+		<source src="vlogg.MP4" type="video/mp4">
+		</video>
+	<br/>
+
+	<p>Changes by Moonbin</p>
+
+<audio controls>
+	<source src="changes.mm.mp3" type="audio/mp3">
+	</audio>
+
+ <p>Astro: You and Me</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skKy_nB5B50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</footer>
+
+</body>
+</html>
